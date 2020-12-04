@@ -80,7 +80,7 @@ header nav ul li a:hover {
     flex-wrap: wrap;
     flex-direction: row;
     align-items: center;
-    padding: 75px;
+    padding: 25px 150px;
 }
 
 .about-label {
@@ -103,7 +103,7 @@ header nav ul li a:hover {
     flex-direction: row;
     align-items: center;
     background-color: #f4f4f4;
-    padding: 25px 75px;
+    padding: 25px 150px;
     margin: 0px auto 2px;
 }
 
@@ -168,7 +168,7 @@ header nav ul li a:hover {
     flex-wrap: wrap;
     flex-direction: row;
     align-items: center;
-    padding: 25px 75px;
+    padding: 25px 150px;
     margin: 0px auto 25px;
 }
 
