@@ -14,11 +14,11 @@ https://github.com/bctan87/bctan87.github.io
 ## Usage
 Please refer to the screencaps:
 
-![Usage](./assets/images/screencap1)
+![Usage](../assets/images/screencap1)
 
 ### Full screen:
 
-![Full screen](./assets/images/screencap2)
+![Full screen](/assets/images/screencap2)
 
 3 of 5 works are linked
 
