@@ -27,6 +27,7 @@ Please refer to the screencaps:
 ![980](./assets/images/screencap3.png)
 
 Changes:
+- header is now centered
 - h2s are no longer inline; they are now centered
 
 ### @media screen 768
