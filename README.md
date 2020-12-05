@@ -14,24 +14,24 @@ https://github.com/bctan87/bctan87.github.io
 ## Usage
 Please refer to the screencaps:
 
-![Usage](../assets/images/screencap1)
+![Usage](../assets/images/screencap1.png)
 
 ### Full screen:
 
-![Full screen](/assets/images/screencap2)
+![Full screen](/assets/images/screencap2.png)
 
 3 of 5 works are linked
 
 ### @media screen 980px
 
-![980](./assets/images/screencap3)
+![980](./assets/images/screencap3.png)
 
 Changes:
 - h2 are no longer inline, they are now centered
 
 ### @media screen 768
 
-![768](./assets/images/screencap4)
+![768](./assets/images/screencap4.png)
 
 Changes:
 - Grid columns reduced to 2
@@ -42,7 +42,7 @@ Changes:
 Changes:
 - Grid is now a single column block
 
-![575](./assets/images/screencap5)
+![575](./assets/images/screencap5.png)
 
 ## Credits
 https://www.w3schools.com/
