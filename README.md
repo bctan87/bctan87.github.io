@@ -20,7 +20,7 @@ Please refer to the screencaps:
 
 ![Full screen](/assets/images/screencap2.png)
 
-3 of 5 works are linked
+5 of 5 works are linked
 
 ### @media screen 980px
 
