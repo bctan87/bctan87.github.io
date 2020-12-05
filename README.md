@@ -14,7 +14,7 @@ https://github.com/bctan87/bctan87.github.io
 ## Usage
 Please refer to the screencaps:
 
-![Usage](../assets/images/screencap1.png)
+![Usage](/assets/images/screencap1.png)
 
 ### Full screen:
 
