@@ -4,6 +4,8 @@
     --secondary-color: #f4f4f4;
     --tertiary-color: #171a20;
     --label: rgb(23, 26, 32, 0.7);
+    --quaternary:  grey;
+    --quinary: rgb(23, 26, 32, 1);
 }
 
 * {
@@ -34,6 +36,7 @@ header {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
+    z-index: 9999;
 }
 
 header h1 {
@@ -67,10 +70,10 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
-    background: var(--secondary-color);
-    color: var(--tertiary-color);
-    border-radius: 8px;
+    color: var(--quaternary);
+    border-bottom: 5px solid var(--secondary-color);
     text-shadow: none;
+    transition: 0.3s;
 }
 /* End Header Styles */
 
@@ -112,6 +115,7 @@ header nav ul li a:hover {
     background-color: #f4f4f4;
     padding: 25px 0;
     margin: 0px auto 2px;
+    z-index: 9998;
 }
 
 .work-label {
@@ -124,6 +128,7 @@ header nav ul li a:hover {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(4, 100px);
     gap: 20px;
+    position: relative;
 }
 
 .grid-item {
@@ -156,6 +161,12 @@ header nav ul li a:hover {
     font-size: 14px;
     padding: 10px;
     color: var(--primary-color);
+}
+
+.work-info:hover {
+    background-color: var(--quinary);
+    border-bottom: 5px solid var(--secondary-color);
+    transition: 0.3s;
 }
 
 .item-1 {
