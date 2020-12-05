@@ -94,6 +94,12 @@ header nav ul li a:hover {
     width: 50%; 
 }
 
+.about-img img {
+    width: 20%;
+    float: left;
+    margin-right: 25px;
+}
+
 /* End About Styles */
 
 /* Start Work Styles */
@@ -376,6 +382,12 @@ header nav ul li a:hover {
           width: 100%;
       }
 
+      .about-img img {
+        width: 20%;
+        float: left;
+        margin-bottom: 15px;
+    }
+
       .work-label, .work-grid {
           width: 100%;
       }
@@ -432,3 +444,4 @@ header nav ul li a:hover {
           width: 100%;
       }
 }
+/* End Media Queries Style */
