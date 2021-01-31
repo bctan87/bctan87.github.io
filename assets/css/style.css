@@ -189,7 +189,7 @@ header nav ul li a:hover {
 .item-3 {
     grid-column: 1 / auto;
     grid-row: 3 / span 2;
-    background-image: url("../images/pfr.com.png");
+    background-image: url("../images/weatherbee.png");
     background-size: cover;
 }
 
