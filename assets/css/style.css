@@ -196,7 +196,7 @@ header nav ul li a:hover {
 .item-4 {
     grid-column: 2 / auto;
     grid-row: 3 / span 2;
-    background-image: url("../images/runbuddy.png");
+    background-image: url("../images/dishaday.png");
     background-size: cover;
 }
 
